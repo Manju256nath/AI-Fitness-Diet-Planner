@@ -328,24 +328,3 @@ The validation process — including cross-referencing with health guidelines an
 This project demonstrates how Generative AI can meaningfully improve everyday life by making professional-level health and fitness guidance more accessible, personalized, and affordable. The project also illustrates how Generative AI can be integrated into real-world applications using accessible tools such as Python, Streamlit, and publicly available AI APIs.
 
 ---
-
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Manju256nath/AI-Fitness-Diet-Planner.git
-cd AI-Fitness-Diet-Planner
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Add your Gemini API key in the code or as environment variable
-export GEMINI_API_KEY="your_api_key_here"
-
-# 4. Run the app
-streamlit run app.py
-```
-
----
-
-*© 2024 Manjunath AVULA — AI Personal Fitness and Diet Planner*
